@@ -24,6 +24,7 @@ $(call inherit-product, device/samsung/dream2lte/device.mk)
 
 # Inherit some common Halium stuff.
 $(call inherit-product, vendor/halium/config/halium.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/halium.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := dream2lte

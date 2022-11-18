@@ -56,6 +56,9 @@ vendor/lib/libsnap_vndk.so
 vendor/lib/libsomp.camera.samsung.so
 vendor/lib/libvxu.so
 vendor/lib/libxcv.camera.samsung.so
+vendor/lib/hw/audio.primary.default.so
+vendor/lib/hw/audio.r_submix.default.so
+vendor/lib/hw/audio.usb.default.so
 vendor/lib64/camera.device@1.0-impl.so
 vendor/lib64/camera.device@3.2-impl.so
 vendor/lib64/camera.device@3.3-impl.so
@@ -76,6 +79,10 @@ vendor/lib64/libsnap_vndk.so
 vendor/lib64/libsomp.camera.samsung.so
 vendor/lib64/libvxu.so
 vendor/lib64/libxcv.camera.samsung.so
+vendor/lib64/hw/audio.primary.default.so
+vendor/lib64/hw/audio.r_submix.default.so
+vendor/lib64/hw/audio.usb.default.so
+
 
 # Firmware
 vendor/etc/plmn_delta.bin
