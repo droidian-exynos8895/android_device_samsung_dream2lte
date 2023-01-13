@@ -22,7 +22,7 @@ DEVICE_PATH := device/samsung/dream2lte
 TARGET_OTA_ASSERT_DEVICE := dream2lte
 
 # Kernel
-TARGET_KERNEL_CONFIG := exynos8895-dream2lte_defconfig
+TARGET_KERNEL_CONFIG := halium-dream2lte_defconfig
 
 # inherit from the proprietary version
 -include vendor/samsung/dream2lte/BoardConfigVendor.mk
